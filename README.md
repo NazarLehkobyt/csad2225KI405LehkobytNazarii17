@@ -28,3 +28,4 @@ Since I am the 11th student in the group, my assignment will look like this:
 
 # d. detalis about technology, program language and HW
 
+In this project, I am going to use a client-server architecture. The server, which will provide data to the client program, will be represented by an Arduino board (I will announce the specific model later). The Arduion board will perform calculations and return the results to the client program at the end. The language for the project development will be Java or C++/C# (no final decision has been made at this time). Note that there may be changes during project development.
